@@ -65,3 +65,6 @@ The sample farming data is for practice only and is not agricultural advice.
 - `adk web` started with the sample agent folder and listed it.
 
 **Not tested (needs real servers or accounts):** any real Gemini response, quota behaviour, Colab Secrets, real File Search indexing, real text to speech, Swahili quality, and any real deployment. The text-to-speech ID `gemini-3.1-flash-tts-preview` is unverified (the notebook falls back to `gemini-2.5-flash-preview-tts`, which Google's docs list).
+
+
+# Devfest_ArushaAIVoices
